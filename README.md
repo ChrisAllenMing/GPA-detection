@@ -33,7 +33,7 @@ cd GPA-detection && mkdir data
 
 * [Cityscapes & Foggy Cityscapes](https://www.cityscapes-dataset.com/)
    
-  p.s. Transform original segmentation annotations to detection formats using these [codes](https://jbox.sjtu.edu.cn/l/KnHCR2).
+  p.s. Transform original segmentation annotations to detection formats using these [codes](https://drive.google.com/drive/folders/145Ap-ha0LZegbZ2WMO2vPDMd2yrpbNXT?usp=sharing).
 * [SIM 10k](https://fcav.engin.umich.edu/projects/driving-in-the-matrix)
 * [KITTI](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=2d)
 
@@ -41,7 +41,7 @@ cd GPA-detection && mkdir data
 
 In all experiments, we use a ResNet-50 model pretrained on ImageNet as the backbone. You can download this model from:
 
-* ResNet-50: [Jbox](https://jbox.sjtu.edu.cn/l/H1Nwdz)
+* ResNet-50: [Jbox](https://drive.google.com/file/d/1BlVJ87FUrAly7AFf5WWh-0GeHkRZMh9x/view?usp=sharing)
 
 This model should be put into ./data/pretrained_model/.
 
