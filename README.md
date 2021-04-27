@@ -41,7 +41,7 @@ cd GPA-detection && mkdir data
 
 In all experiments, we use a ResNet-50 model pretrained on ImageNet as the backbone. You can download this model from:
 
-* ResNet-50: [Jbox](https://drive.google.com/file/d/1BlVJ87FUrAly7AFf5WWh-0GeHkRZMh9x/view?usp=sharing)
+* ResNet-50: [Google Drive](https://drive.google.com/file/d/1BlVJ87FUrAly7AFf5WWh-0GeHkRZMh9x/view?usp=sharing)
 
 This model should be put into ./data/pretrained_model/.
 
